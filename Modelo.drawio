@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Página-1" id="lBG2dlzL81i276e26TDd">
-    <mxGraphModel dx="933" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1133" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,12 @@
         </mxCell>
         <mxCell id="9tFHvyBg88bxmzfm6tZJ-31" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="332.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9tFHvyBg88bxmzfm6tZJ-32" target="9tFHvyBg88bxmzfm6tZJ-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tFHvyBg88bxmzfm6tZJ-32" target="9tFHvyBg88bxmzfm6tZJ-193">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9tFHvyBg88bxmzfm6tZJ-32" value="Contiene" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="200" width="140" height="60" as="geometry" />
@@ -355,6 +361,12 @@
         </mxCell>
         <mxCell id="9tFHvyBg88bxmzfm6tZJ-190" value="Codigo Pedido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="910" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-192" value="Cantidad" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="727" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-193" value="Valor" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="860" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
