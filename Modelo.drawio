@@ -50,6 +50,17 @@
         <mxCell id="M0G1xanC44NiDwH8E57y-7" value="Realiza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="294" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9tFHvyBg88bxmzfm6tZJ-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="200.0599999999999" as="targetPoint" />
+            <mxPoint x="170" y="140.0599999999999" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="140" />
+              <mxPoint x="180" y="190" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9tFHvyBg88bxmzfm6tZJ-4" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="140" width="60" height="30" as="geometry" />
         </mxCell>
@@ -140,6 +151,21 @@
           <mxGeometry x="370" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9tFHvyBg88bxmzfm6tZJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tFHvyBg88bxmzfm6tZJ-42" target="9tFHvyBg88bxmzfm6tZJ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tFHvyBg88bxmzfm6tZJ-57" target="9tFHvyBg88bxmzfm6tZJ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-57" value="ID" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-59" value="PN" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="167" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-60" value="PJ" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="294" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9tFHvyBg88bxmzfm6tZJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.01;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tFHvyBg88bxmzfm6tZJ-57" target="9tFHvyBg88bxmzfm6tZJ-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
